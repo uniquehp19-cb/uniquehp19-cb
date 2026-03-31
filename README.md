@@ -10,6 +10,9 @@
 🌿 Leaf Disease Detection using CNN  
 🔗 Live Demo: https://leaf-disease-cnn-7bjczup6yx5tvavpwentrg.streamlit.app/
 
+🤖 handwritten-digit-recognition-ai
+🔗 Live Demo: https://handwritten-digit-recognition-ai-9mmvdmxqdhbnp3kkh5roke.streamlit.app/
+
 ---
 
 ## 🛠️ Skills
