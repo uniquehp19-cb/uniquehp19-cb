@@ -20,7 +20,8 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uniquehp19-cb&show_icons=true)
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uniquehp19-cb&show_icons=true&theme=tokyonight&cache_seconds=1800)
 ---
 
 ## 🔗 Connect with Me
