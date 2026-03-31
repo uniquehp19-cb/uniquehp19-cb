@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Hari Priya
 
-<!--
-**uniquehp19-cb/uniquehp19-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI & ML Engineering Student  
+💻 Python Developer  
+🤖 Interested in Artificial Intelligence, Machine Learning and Computer Vision  
 
-Here are some ideas to get you started:
+## 🚀 My Project
+🌿 Leaf Disease Detection using CNN  
+🔗 Live Demo: https://leaf-disease-cnn-7bjczup6yx5tvavpwentrg.streamlit.app/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- Machine Learning
+- Deep Learning
+- CNN
+- Streamlit
+
+## 📂 GitHub
+https://github.com/uniquehp19-cb
