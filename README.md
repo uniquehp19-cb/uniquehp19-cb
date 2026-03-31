@@ -21,7 +21,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=uniquehp19-cb&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uniquehp19-cb&show_icons=true&theme=default)
 
 ---
 
