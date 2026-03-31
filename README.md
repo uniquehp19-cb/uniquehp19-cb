@@ -20,8 +20,5 @@
 
 ---
 
-## 📊 GitHub Stats![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uniquehp19-cb&layout=compact)
----
-
 ## 🔗 Connect with Me
 GitHub: https://github.com/uniquehp19-cb
