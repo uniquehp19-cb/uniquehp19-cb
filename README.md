@@ -1,4 +1,4 @@
-# Hi 👋 I'm Hari Priya
+# Hi, I'm Hari Priya
 
 🎓 AI & ML Engineering Student  
 💻 Python Developer  
